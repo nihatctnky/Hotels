@@ -7,10 +7,15 @@ Veriler, TanStack Query kullanılarak yönetilir, API istekleri yapılır ve ver
 # Kullanılan Kütüphaneler
 
 *React-router-dom
+
 *@Tanstack/react-query
+
 *React-toastify
+
 *React-icons
+
 *Tailwindcss
+
 *Axios
 
 # Ekran Gif
